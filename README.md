@@ -1,4 +1,7 @@
 # Sales Insights Data Analysis Project using Tableau
+![Screenshot](dashboard1.png)
+![Screenshot](dashboard2.png)
+
 
 Step1: Download db_dump.sql
 
@@ -15,6 +18,7 @@ Show all customer records
 
 Show total number of customers
 <code>SELECT count(*) FROM customers;</code>
+
 
 Show transactions for Chennai market (market code for chennai is Mark001
 
@@ -42,4 +46,5 @@ Show total revenue in year 2020, January Month,
 
 Show total revenue in year 2020 in Chennai
 
-SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark001";
+<code>SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark001";
+</code>
