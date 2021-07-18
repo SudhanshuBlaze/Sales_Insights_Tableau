@@ -8,8 +8,7 @@ Step3: Connect Tableau with MySql database
 
 Step4: Use the Tableau(.twb file) dashboard provided in the repo. It contains all the Worksheets and Dashboards
 
-<code></code>
-Data Analysis Using SQL
+## Data Analysis Using SQL
 
 Show all customer records
 <code>SELECT * FROM customers;</code>
