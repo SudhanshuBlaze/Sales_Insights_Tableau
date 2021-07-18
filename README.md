@@ -2,7 +2,7 @@
 ![Screenshot](dashboard1.png)
 ![Screenshot](dashboard2.png)
 
-
+## Setup Process
 Step1: Download db_dump.sql
 
 Step2: Import it in MySql do ETL(extract,transform,load) if required
