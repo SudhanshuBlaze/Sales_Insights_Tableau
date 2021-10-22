@@ -2,6 +2,12 @@
 ![Screenshot](dashboard1.png)
 ![Screenshot](dashboard2.png)
 
+
+
+https://user-images.githubusercontent.com/63813872/138419199-851bcbe5-47f6-481a-90f8-a61528147c72.mov
+
+
+
 ## Setup Process
 Step1: Download db_dump.sql
 
